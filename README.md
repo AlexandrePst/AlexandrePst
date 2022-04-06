@@ -10,5 +10,7 @@ I can work in : JS-Vue-Nest-PHP-Symfony-Python-Java-Kotlin 👷‍♂️
 I hope we'll get in touch !
 
 📧 : alexproust351@gmail.com
+
 🐦 : @Alexandre_prst
+
 📝 Figma & Notion : alexproust351@gmail.com
